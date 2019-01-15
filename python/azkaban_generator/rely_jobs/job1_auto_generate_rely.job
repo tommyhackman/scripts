@@ -1,0 +1,2 @@
+type=command
+command=sh ../generator/rely_check.sh xjq_failed#job2#job2

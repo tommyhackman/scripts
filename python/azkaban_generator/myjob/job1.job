@@ -1,0 +1,4 @@
+type=command
+command=echo "job1"
+dependencies=job1_auto_generate_rely
+
